@@ -46,7 +46,7 @@ if (isset($banner_images) && !empty($banner_images)) {
                                     </ul>
                                 </div>
                             </div>
-                        </div><!--./newscontent-->
+                        </div>newscontent-->
 
         <?php
     }

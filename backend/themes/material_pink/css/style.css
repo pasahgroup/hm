@@ -84,7 +84,7 @@ header {
     width: 100%;
 }
  
-.toparea{border-bottom: 1px solid rgba(255, 255, 255, 0.1);padding: 5px 0; background: #bd0745;transition: all 3s ease 0s;} 
+.toparea{border-bottom: 1px solid rgba(255, 255, 255, 0.1);padding: 5px 0; background: #86623b;transition: all 3s ease 0s;} 
 .toplist{padding: 0; margin: 0; list-style: none;}
 .toplist li+li{margin-left: 20px;}
 .toplist li {display: inline-block; color: #fff;padding-top: 5px;}
